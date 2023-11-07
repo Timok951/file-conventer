@@ -1,0 +1,17 @@
+H:\П50-4-22\Программирование\C#\Homework\File conventer\File conventer\bin\Debug\net6.0\File conventer.exe
+H:\П50-4-22\Программирование\C#\Homework\File conventer\File conventer\bin\Debug\net6.0\File conventer.deps.json
+H:\П50-4-22\Программирование\C#\Homework\File conventer\File conventer\bin\Debug\net6.0\File conventer.runtimeconfig.json
+H:\П50-4-22\Программирование\C#\Homework\File conventer\File conventer\bin\Debug\net6.0\File conventer.dll
+H:\П50-4-22\Программирование\C#\Homework\File conventer\File conventer\bin\Debug\net6.0\File conventer.pdb
+H:\П50-4-22\Программирование\C#\Homework\File conventer\File conventer\bin\Debug\net6.0\Newtonsoft.Json.dll
+H:\П50-4-22\Программирование\C#\Homework\File conventer\File conventer\obj\Debug\net6.0\File conventer.csproj.AssemblyReference.cache
+H:\П50-4-22\Программирование\C#\Homework\File conventer\File conventer\obj\Debug\net6.0\File conventer.GeneratedMSBuildEditorConfig.editorconfig
+H:\П50-4-22\Программирование\C#\Homework\File conventer\File conventer\obj\Debug\net6.0\File conventer.AssemblyInfoInputs.cache
+H:\П50-4-22\Программирование\C#\Homework\File conventer\File conventer\obj\Debug\net6.0\File conventer.AssemblyInfo.cs
+H:\П50-4-22\Программирование\C#\Homework\File conventer\File conventer\obj\Debug\net6.0\File conventer.csproj.CoreCompileInputs.cache
+H:\П50-4-22\Программирование\C#\Homework\File conventer\File conventer\obj\Debug\net6.0\File conventer.csproj.CopyComplete
+H:\П50-4-22\Программирование\C#\Homework\File conventer\File conventer\obj\Debug\net6.0\File conventer.dll
+H:\П50-4-22\Программирование\C#\Homework\File conventer\File conventer\obj\Debug\net6.0\refint\File conventer.dll
+H:\П50-4-22\Программирование\C#\Homework\File conventer\File conventer\obj\Debug\net6.0\File conventer.pdb
+H:\П50-4-22\Программирование\C#\Homework\File conventer\File conventer\obj\Debug\net6.0\File conventer.genruntimeconfig.cache
+H:\П50-4-22\Программирование\C#\Homework\File conventer\File conventer\obj\Debug\net6.0\ref\File conventer.dll

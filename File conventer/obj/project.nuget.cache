@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6iN9jhaCr64uTK3xNp4wbfAfL9DaJezUDoFXQKkeG8HZVrxiuKsbrmnj3Nqws0VpevCAy9Hg4wx9d9xqHdDH4A==",
+  "dgSpecHash": "sNR4u3CGvMjwxS2zA46bi25cUtkPpLM0Vsltke2TEv1dZR/0icoaLOCWs99s7m9gYYceGTxM0sgYAlzqx39Kew==",
   "success": true,
-  "projectFilePath": "H:\\П50-4-22\\Программирование\\C#\\Homework\\File conventer\\File conventer\\File conventer.csproj",
+  "projectFilePath": "E:\\П50-4-22\\Программирование\\C#\\Homework\\File conventer\\File conventer\\File conventer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\timof\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
   ],

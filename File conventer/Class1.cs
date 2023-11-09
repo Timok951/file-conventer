@@ -17,9 +17,6 @@ namespace File_conventer
             Age = age;
 
         }
-       
-      
-
 
     }
 }

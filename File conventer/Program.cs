@@ -22,8 +22,13 @@ namespace File_conventer
             {
 
                 if (File.Exists(path)) {
-                    List <Human> hum = File.ReadAllText(path);
+                   var lines = File.ReadAllLines(path);
 
+                    for (int i = 0; i < lines.Length; i+=2)
+                    {
+                        Human human = new Human(lines[i], Convert.ToInt32(lines[i + 1]));
+                        hum.Add(human);
+                    }
 
                 }
                 else
@@ -36,7 +41,7 @@ namespace File_conventer
 
             else if (path.EndsWith(".json")) {
                 string text = File.ReadAllText(path);
-                List<Human> hum = JsonConvert.DeserializeObject<List<Human>>(text);
+                hum = JsonConvert.DeserializeObject<List<Human>>(text);
 
             }
 
@@ -60,7 +65,10 @@ namespace File_conventer
 
             if (path.EndsWith(".txt")) {
 
-               File.WriteAllText(path, hum);
+                foreach (var chelovek in hum)
+                {
+                    //сохраняем каждого человека в файл
+                }
             
             }
 

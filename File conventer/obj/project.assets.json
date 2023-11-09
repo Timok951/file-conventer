@@ -61,11 +61,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "H:\\П50-4-22\\Программирование\\C#\\Homework\\File conventer\\File conventer\\File conventer.csproj",
+      "projectUniqueName": "E:\\П50-4-22\\Программирование\\C#\\Homework\\File conventer\\File conventer\\File conventer.csproj",
       "projectName": "File conventer",
-      "projectPath": "H:\\П50-4-22\\Программирование\\C#\\Homework\\File conventer\\File conventer\\File conventer.csproj",
+      "projectPath": "E:\\П50-4-22\\Программирование\\C#\\Homework\\File conventer\\File conventer\\File conventer.csproj",
       "packagesPath": "C:\\Users\\timof\\.nuget\\packages\\",
-      "outputPath": "H:\\П50-4-22\\Программирование\\C#\\Homework\\File conventer\\File conventer\\obj\\",
+      "outputPath": "E:\\П50-4-22\\Программирование\\C#\\Homework\\File conventer\\File conventer\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
